@@ -5,5 +5,5 @@ The code is designed to predict the poverty rate in Indonesia using historical d
 The code was developed as a final project for a university course on Time Series Analysis. This academic endeavor provided an opportunity to apply theoretical concepts and practical techniques in forecasting to real-world data, specifically focusing on the challenges of predicting poverty rates. By exploring various forecasting models, the project aimed to deepen the understanding of time series methodologies while contributing to the broader discourse on poverty alleviation in Indonesia.
 
 ## Contributors
-2540121322 - Lovina Anabelle Citra
-2501975620 - Diva Nabila Henryka
+1. Lovina Anabelle Citra
+2. Diva Nabila Henryka
